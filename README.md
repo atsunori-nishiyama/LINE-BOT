@@ -4,7 +4,7 @@ PHP、Laravel、APIを深く理解するために、作成したLINE-BOTです�
 
 ぐるなびAPIを使用し、APIの読み込みから処理の流れまでを理解する事ができました。
 
-開発環境：Docker（laradock)
+開発環境：Docker（laradock)、HEROKU（デプロイ）
 
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
