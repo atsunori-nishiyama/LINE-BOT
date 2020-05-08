@@ -1,3 +1,11 @@
+PHP、Laravel、APIを深く理解するために、作成したLINE-BOTです。
+
+地域、料理のジャンルを送ると、条件内のお店情報が返されます。
+
+ぐるなびAPIを使用し、APIの読み込みから処理の流れまでを理解する事ができました。
+
+開発環境：Docker（laradock)
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
